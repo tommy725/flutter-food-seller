@@ -1,4 +1,4 @@
-# Foddie Seller Mobile App for IOS and Android
+# Food Seller Mobile App for IOS and Android
 
 This app has the following features:
 - Login/Register System
